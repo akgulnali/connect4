@@ -1,6 +1,6 @@
-#iOffer Codding Challenge
+# Connect 4 Game
 
-###Getting Started
+### Getting Started
 
 This is a Connect 4 game which is implemented using Ruby. It is a terminal application. Before playing this game
 make sure you are in the project directory. After that, you should run the following command to install the dependencies.
